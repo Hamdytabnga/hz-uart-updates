@@ -1,5 +1,5 @@
 {
-  "version": "2.2",
-  "download_url": "",
-  "changelog_ar": "• الإصدار الرسمي المستقر v2.2."
+  "version": "2.3",
+  "download_url": "https://github.com/Hamdytabnga/hz-uart-updates/releases/download/v2.3/Android_UART_Log_Analyzer_Pro_v2.3.exe",
+  "changelog_ar": "• إضافة مختبر سحبات الباور سبلاي الذكي (إدخال يدوي بالملي أمبير mA مع ربط مباشر بمخطط البوردة).\n• تخصيص أسماء خطوط الفولت القياسية لكل معالج (Qualcomm, MTK, Unisoc, Kirin, Exynos) مع عرض كامل للخطوات.\n• تطوير محرك الـ UART الحقيقي لعزل شوشرة الباور وفك شفرة بروتوكولات الطوارئ وكشف مرحلة التجمد الصامت (Boot Freeze).\n• تعزيز منظومة الحماية والتشفير الصارم بـ 60,000 دورة PBKDF2-SHA512 وتثبيت مزدوج لبصمة الجهاز."
 }
