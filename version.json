@@ -1,5 +1,5 @@
 {
-  "version": "2.4",
-  "download_url": "https://github.com/Hamdytabnga/hz-uart-updates/releases/download/v2.4/Android_UART_Log_Analyzer_Pro_v2.4.exe",
-  "changelog_ar": "• إصلاح وتطوير محرك سحب اللوجات المباشر عبر ADB (التعرف الفوري على الهاتف، كشف حالة Unauthorized، وسحب قراءات البطارية وسبب آخر ريستارت وسجلات الأعطال بدون روت).\n• مختبر سحبات الباور سبلاي الذكي المخصص لكل معالج (Qualcomm, MTK, Unisoc, Kirin, Exynos) مع عرض كامل للخطوات والفولتيات.\n• محرك UART الحقيقي لعزل شوشرة الباور وكشف مرحلة التجمد الصامت (Boot Freeze)."
+  "version": "2.5",
+  "download_url": "https://github.com/Hamdytabnga/hz-uart-updates/releases/download/v2.5/Android_UART_Log_Analyzer_Pro_v2.5.exe",
+  "changelog_ar": "• تطوير محرك سحب اللوجات المباشر عبر ADB للعمل فوراً بدون إعدادات إضافية (التعرف التلقائي على الهاتف، كشف حالة Unauthorized، وسحب بيانات البطارية وسبب آخر ريستارت وسجلات الأعطال).\n• تثبيت بصمة الجهاز على الهاردوير لضمان استمرار التفعيل بنفس الكود حتى بعد تغيير نسخة الويندوز.\n• مختبر سحبات الباور سبلاي الذكي المخصص لكل معالج (Qualcomm, MTK, Unisoc, Kirin, Exynos) مع محرك UART المطور."
 }
